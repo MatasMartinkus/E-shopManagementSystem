@@ -55,9 +55,9 @@ The E-Shop Management System uses PostgreSQL as its database. Follow these steps
 ## Usage
 To start the application, run the following command:
 ```bash
-python manage.py runserver
+python main.py
 ```
-Open your web browser and navigate to `http://localhost:8000` to access the application.
+
 
 ## Database Schema
 The E-Shop Management System uses a relational database to manage its data. Below is a high-level overview of the database schema:
