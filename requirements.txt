@@ -1,0 +1,13 @@
+flask
+sqlalchemy
+psycopg2-binary
+python-dotenv
+bcrypt
+tkinter
+ttkbootstrap
+validate_email_address
+itsdangerous
+smtplib
+dotenv
+sqlalchemy
+psycopg2
